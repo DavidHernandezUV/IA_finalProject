@@ -18,7 +18,7 @@ imperfectas. La profundidad límite del árbol depende del nivel seleccionado po
 el nivel principiante se utiliza un árbol de profundidad 2, para amateur de profundidad 4, y para
 experto de profundidad 6.
 
-##Aclaraciones generales
+## Aclaraciones generales
 
 - El juego siempre lo inicia la máquina quien jugará con el caballo que pinta las casillas de rojo
 - Las posiciones iniciales de los caballos son aleatorias
