@@ -20,9 +20,9 @@ experto de profundidad 6.
 
 ##Aclaraciones generales
 
-• El juego siempre lo inicia la máquina quien jugará con el caballo que pinta las casillas de rojo
-• Las posiciones iniciales de los caballos son aleatorias
-• Las posiciones de las tres casillas con bono son aleatorias, pero no pueden quedar en casillas
+- El juego siempre lo inicia la máquina quien jugará con el caballo que pinta las casillas de rojo
+- Las posiciones iniciales de los caballos son aleatorias
+- Las posiciones de las tres casillas con bono son aleatorias, pero no pueden quedar en casillas
 adyacentes (incluidas las diagonales)
-• Se debe mostrar en cada momento la cantidad de casillas que cada jugador ha pintado
-• Al final del juego se debe indicar quién es el ganador
+- Se debe mostrar en cada momento la cantidad de casillas que cada jugador ha pintado
+- Al final del juego se debe indicar quién es el ganador
